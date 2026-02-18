@@ -1,0 +1,9 @@
+# Build artifacts
+*.zip
+dist/
+
+# Runtime
+tmp/
+
+# OS
+.DS_Store

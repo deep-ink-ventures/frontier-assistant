@@ -1,0 +1,8 @@
+{
+  "name": "inbox",
+  "version": "1.0.5",
+  "description": "Gmail inbox management across multiple Google Workspace accounts. Setup labels, smart filters, clean up historic inboxes, and run daily triage with draft replies and Drive storage — all via editable briefings.",
+  "author": {
+    "name": "Christian Peters"
+  }
+}

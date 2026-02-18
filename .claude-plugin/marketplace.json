@@ -1,0 +1,21 @@
+{
+  "name": "frontier-assistant",
+  "owner": {
+    "name": "Christian Peters"
+  },
+  "metadata": {
+    "description": "Opinionated workspace orchestrator for Google Workspace"
+  },
+  "plugins": [
+    {
+      "name": "inbox",
+      "source": "./inbox",
+      "description": "Gmail inbox management across multiple Google Workspace accounts. Setup labels, smart filters, clean up historic inboxes, and run daily triage with draft replies and Drive storage.",
+      "version": "1.0.4",
+      "author": {
+        "name": "Christian Peters"
+      },
+      "keywords": ["gmail", "inbox", "google-workspace", "triage", "email"]
+    }
+  ]
+}
